@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Laptop",
+        "category": "Electronics",
+        "price": 1200
+    },
+    {
+        "name": "Phone",
+        "category": "Electronics",
+        "price": 800
+    },
+    {
+        "name": "Chair",
+        "category": "Furniture",
+        "price": 150
+    },
+    {
+        "name": "Book",
+        "category": "Stationery",
+        "price": 20
+    },
+    {
+        "name": "Headphones",
+        "category": "Accessories",
+        "price": 100
+    }
+]
