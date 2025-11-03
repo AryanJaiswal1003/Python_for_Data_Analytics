@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Alice Johnson",
+        "department": "HR",
+        "salary": 60000
+    },
+    {
+        "name": "Bob Smith",
+        "department": "Engineering",
+        "salary": 80000
+    },
+    {
+        "name": "David White",
+        "department": "Sales",
+        "salary": 62000
+    },
+    {
+        "name": "Emma Green",
+        "department": "Finance",
+        "salary": 75000
+    }
+]
